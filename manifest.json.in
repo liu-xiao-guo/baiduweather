@@ -1,0 +1,17 @@
+{
+    "name": "baiduweather.liu-xiao-guo",
+    "description": "description of baiduweather",
+    "architecture": "@CLICK_ARCH@",
+    "title": "baiduweather",
+    "hooks": {
+        "baiduweather": {
+            "apparmor": "baiduweather/baiduweather.apparmor",
+            "desktop":  "baiduweather/baiduweather.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

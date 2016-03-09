@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=baiduweather
+Exec=baiduweather
+Icon=baiduweather/baiduweather.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
